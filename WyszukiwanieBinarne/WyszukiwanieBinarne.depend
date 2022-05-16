@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650909463 source:s:\blokikodu\wyszukiwaniebinarne\main.c
+	<stdio.h>
+	<stdlib.h>
+

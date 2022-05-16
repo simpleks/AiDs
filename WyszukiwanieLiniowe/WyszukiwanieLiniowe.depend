@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650905339 source:s:\blokikodu\wyszukiwanieliniowe\main.c
+	<stdio.h>
+	<stdlib.h>
+

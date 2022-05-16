@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649254689 source:s:\blokikodu\kolejka\main.c
+	<stdio.h>
+	<stdlib.h>
+
