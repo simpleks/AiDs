@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652720524 source:s:\blokikodu\algorytm_dijkstry\main.c
+	<stdio.h>
+	<conio.h>
+
