@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653682491 source:s:\blokikodu\algorytm_prima\main.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
